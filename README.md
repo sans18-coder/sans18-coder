@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iksan wijaya</h1>
-<h3 align="center">I am a third-year Diploma in Information Systems student with an interest in Backend Development and Machine Learning. During my studies, I completed an internship as a Machine Learning Engineer at PT. Algonacci Sobat Nusantara and completed the Bangkit Academy 2024 program and the Junior Web Developer training by Digitalent KOMINFO. My expertise lies in Backend Development using Laravel and Node.js, and in Machine Learning, I have primarily focused on computer vision, and some knowledge of forecasting.</h3>
+<h3 align="center">I am a third-year Diploma in Information Systems student with an interest in Backend Development and Machine Learning. My expertise lies in Backend Development using Laravel and Node.js, and in Machine Learning, I have primarily focused on computer vision, and some knowledge of forecasting.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sans18-coder&label=Profile%20views&color=0e75b6&style=flat" alt="sans18-coder" /> </p>
 
