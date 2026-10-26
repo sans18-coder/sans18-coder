@@ -17,7 +17,7 @@
 
 I build web-based information systems and machine learning solutions, from backend APIs to computer vision models running in production use cases. My backend work centers on Laravel and Node.js. On the machine learning side, I focus on computer vision and have working knowledge of forecasting.
 
-I am a graduate of Bangkit Academy (Machine Learning cohort, led by Google, Tokopedia, Gojek, and Traveloka) and hold a Diploma in Information Systems from Universitas Bina Sarana Informatika.
+I am a graduate of Bangkit Academy (Machine Learning cohort, led by Google, Tokopedia, Gojek, and Traveloka) and have a Bachelor's degree in Information Systems from Bina Sarana Informatika University.
 
 ## What I Do
 
